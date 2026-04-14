@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+opencv-python-headless
+insightface
+onnxruntime
+scikit-learn
+python-multipart
+supabase
+python-dotenv
+openpyxl
+websockets
+numpy
+Pillow

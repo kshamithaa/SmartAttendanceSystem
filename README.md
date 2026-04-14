@@ -1,22 +1,18 @@
-#  SmartAttendance — AI Facial Recognition Attendance System
+# Attendance System using Face Recognition
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-blue?style=for-the-badge)](https://smart-attendance-puce.vercel.app)
-[![Backend](https://img.shields.io/badge/Backend-Hugging%20Face-yellow?style=for-the-badge)](https://harshasankranth-smartattendance.hf.space)
-[![GitHub](https://img.shields.io/badge/GitHub-SmartAttendance-black?style=for-the-badge)](https://github.com/harshasankranth/SmartAttendance)
+Developed by: Kshamitha  
+College: ICFAI  
+Branch: B-Tech(CSE-AI)  
 
-> Built from scratch in 3 weeks as my first ever full stack project. Zero prior knowledge of APIs, databases, or deployment.
+This project is an AI-based attendance system that uses facial recognition to automatically mark attendance. It helps reduce manual work and improve accuracy.
 
----
+## Login Information
+Users can log in using their credentials.  
+For demo purposes:
+- Username: kshamitha
+- Password: mk123
 
-##  Live Demo
-
-** Web App:** https://smart-attendance-puce.vercel.app  
-** API:** https://harshasankranth-smartattendance.hf.space  
-**Default login:** `harsha` / `lucky123`
-
----
-
-##  What It Does
+## What It Does
 
 Traditional attendance = manual roll calls, proxy attendance, paper registers.
 

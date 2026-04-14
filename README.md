@@ -98,7 +98,7 @@ Supabase Storage (face encodings model)
 
 ```bash
 # Clone
-git clone https://github.com/harshasankranth/SmartAttendance
+git clone https://github.com/kshamitha/SmartAttendance
 cd SmartAttendance
 
 # Backend
@@ -177,8 +177,5 @@ This was my **first ever full stack project**. Here's what I learned the hard wa
 
 ##  Built By
 
-**Harsha Sankranth** — First full stack AI project, built in 3 weeks from zero.
+**kshamitha**
 
----
-
-*I am glad my project helped you! will keep doing more!*

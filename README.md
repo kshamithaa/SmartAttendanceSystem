@@ -98,17 +98,17 @@ Supabase Storage (face encodings model)
 
 ```bash
 # Clone
-git clone https://github.com/kshamitha/SmartAttendance
-cd SmartAttendance
+git clone https://github.com/kshamithaa/SmartAttendanceSystem.git
+cd SmartAttendanceSystem
 
 # Backend
 python -m venv venv
-source venv/Scripts/activate  # Windows
-pip install -r backend/requirements.txt
-
+python -m venv venv
+venv\Scripts\activate
+python -m pip install --upgrade pip
 # Add .env file
-echo "SUPABASE_URL=your_url" > .env
-echo "SUPABASE_KEY=your_key" >> .env
+echo "SUPABASE_URL=exeljpxkfasnkrsuxyln" > .env
+echo "SUPABASE_KEY=sb_publishable_3NaXapx3ykymsAAnCmvm-A_VWSnP16j" >> .env
 
 # Start backend
 uvicorn backend.main:app --reload --port 8000
